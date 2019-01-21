@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+  text-align: center;
+  width: 75%
+}
+
+h2 {
+  color: purple;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  font-style: oblique;
+  color: brown;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+  font-family: fantasy;
+  font-style: normal;
+}
