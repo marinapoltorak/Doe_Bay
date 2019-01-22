@@ -1,7 +1,7 @@
 h1 {
   color: blue;
   text-align: center;
-  width: 75%
+  width: 100%
 }
 
 h2 {
@@ -21,4 +21,5 @@ ul {
   line-height: 30px;
   font-family: fantasy;
   font-style: normal;
+  text-align: center;
 }
