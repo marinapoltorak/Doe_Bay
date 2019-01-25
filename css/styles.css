@@ -1,3 +1,9 @@
+@media screen and (max-width: 768px) and (min-width: 600px) {
+  body {
+    background-color: black;
+  }
+}
+
 h1 {
   color: blue;
   text-align: center;
@@ -22,8 +28,4 @@ ul {
   font-family: fantasy;
   font-style: normal;
   text-align: center;
-}
-
-body {
-  background-color: skyblue;
 }
